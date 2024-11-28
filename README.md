@@ -14,8 +14,8 @@
 
 <h2>⚙️ Technologies Used</h2>
 <ul>
-   <li>🔹 <strong>Language:</strong> Python</li>
-   <li>🔹 <strong>Libraries:</strong> 
+   <li> <strong>Language:</strong> Python</li>
+   <li> <strong>Libraries:</strong> 
       <ul>
          <li><code>random</code>: Used for generating random numbers and shuffling.</li>
       </ul>
